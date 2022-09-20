@@ -1,0 +1,14 @@
+{
+  "name": "UFATHAI-88",
+  "theme": "syntax",
+  "version": "0.0.2",
+  "description": "ufathai",
+  "keywords": [
+    "ufathai-2022"
+  ],
+  "repository": "https://github.com/luckysucky55/UFATHAI-88",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
